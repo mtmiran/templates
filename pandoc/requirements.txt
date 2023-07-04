@@ -1,2 +1,3 @@
 pandoc
 libghc-citeproc-dev
+texlive
