@@ -1,0 +1,4 @@
+src -> code
+data -> input data
+output -> results
+notebook -> jupyter notebooks
