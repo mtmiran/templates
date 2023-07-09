@@ -2,4 +2,4 @@
 
 ## for compile the file:
 # themes: https://latex-beamer.com/tutorials/beamer-themes/
-pandoc presentation.md -t beamer -o presentation.pdf
+pandoc --citeproc --bibliography=references.bib presentation.md -t beamer -o presentation.pdf

@@ -21,6 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Subsection 
 
+This is a citation [@Smith1900] and another citation [@Jones1901]
 
 # Text formatting
 
@@ -35,3 +36,8 @@ emphatic text/italic
 
 ![pandoc](img/pandoc.png)
 
+
+# References
+
+::: {#refs}
+:::
