@@ -1,0 +1,2 @@
+pandoc
+libghc-citeproc-dev

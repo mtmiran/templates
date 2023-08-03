@@ -1,29 +1,28 @@
 ---
 title:
-- Presentation Title 
+- Título da Apresentação
 author:
-- Author 
+- Mateus 
 theme:
 - Madrid
-date:
-- March XX, 20XX
+date: \today
 ---
 
 
 
-# Section heading
+# Sessão 
 
 ## Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Section Heading 2
+# Sessão 2
 
 ## Subsection 
 
-This is a citation [@Smith1900] and another citation [@Jones1901]
+Essa é uma citação[@Smith1900] e outra citação [@Jones1901]
 
-# Text formatting
+# Formatação de Texto
 
 *bold text*
 
@@ -32,12 +31,12 @@ emphatic text/italic
 ~~strike-thru~~
 
 
-# Image
+# Imagem
 
 ![pandoc](img/pandoc.png)
 
 
-# References
+# Referências
 
 ::: {#refs}
 :::

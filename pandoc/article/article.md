@@ -1,8 +1,34 @@
-% **Article Title**
-% Author
-% Date
+---
+title:  'This is the title'
+subtitle: "This is the subtitle"
+author:
+- Author One
+- Author Two
+<!-- thanks: Thanks to X, Y, and Z for helpful comments. -->
+<!-- date: \today -->
+abstract: |  
+  This is a brief summary of your article, highlighting the main points and conclusions.
+  
+  **keywords**: List, of, keywords, related, to, your, article
+keywords: | 
+  List, of, keywords, related, to, your, article
+documentclass: article
+papersize: A4
+lang: pt-BR
+fontsize: 12pt
+fontfamily: libertinus
+linestretch: 1 
+indent: true
+geometry:
+- top=30mm
+- left=25mm
+- right=25mm
+link-citations: true
+linkReferences: true
+bibliography: [references.bib]
+...
 
-**Abstract:** This is a generic abstract for testing.
+<!-- Document Content Goes Below -->
 
 # Introduction
 
@@ -24,3 +50,7 @@ This is more citations [@campos1974] and more [@jackson2005].
 ::: {#refs}
 :::
 
+
+
+<!-- Importante Sites -->
+<!-- https://pandoc.org/chunkedhtml-demo/6.2-variables.html -->
